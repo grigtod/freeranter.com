@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>freeranter</title>
+    <link>https://freeranter.com/</link>
+    <description>Recent content on freeranter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, freeranter.</copyright>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freeranter.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My thoughts on NextMind</title>
+      <link>https://freeranter.com/nextmind-thoughts/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freeranter.com/nextmind-thoughts/</guid>
+      <description>My thoughts on NextMind! NextMind is an interesting device, and I&amp;rsquo;ll consider purchasing one to create a couple of UX prototypes. That said, there&amp;rsquo;s something bothering me about this product.
+If you watch their videos on YouTube¹, then compare with some videos created by their users², you can see how certain aspects of the user experience are purposefully masked and others are misrepresented.
+For example in one of their earlier videos they advertise the ability of the device to distinguish shapes based on the brain signal alone³.</description>
+    </item>
+    
+    <item>
+      <title>How I left Squarespace to speed up my website</title>
+      <link>https://freeranter.com/from-slow-to-fast/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freeranter.com/from-slow-to-fast/</guid>
+      <description>How I left Squarespace to speed up my website I’ve been very annoyed by the webpage bloat experienced nowadays, especially on mobile. If your page takes more than 5 seconds to load on an average smartphone you’re doing it wrong!
+I didn’t want to be a part of the problem and decided to rework my portfolio website to be more lightweight.
+I was using Squarespace in the past. Squarespace tends to be very bloated, super slow when loading on mobile and cost me £144 per annum.</description>
+    </item>
+    
+    <item>
+      <title>From Idea to Product in 24 hours! </title>
+      <link>https://freeranter.com/idea-to-product-24-hours/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freeranter.com/idea-to-product-24-hours/</guid>
+      <description>From Idea to Product in 24 hours! I&amp;rsquo;ve been working as a freelancer for a while now. It&amp;rsquo;s exciting to quickly prototype and deliver a project. Usually, my applications are used in exhibitions for a short time or purely for internal use, but some of my favourite projects are the ones that have been published online for everyone to see and enjoy. unfortunately, such projects are rare. That&amp;rsquo;s why I&amp;rsquo;ve been thinking of working towards developing more projects to share online.</description>
+    </item>
+    
+    <item>
+      <title>XR Collaboration Startups</title>
+      <link>https://freeranter.com/xr-colab-startups/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://freeranter.com/xr-colab-startups/</guid>
+      <description>XR Collaboration Startups or: How I Learned to Stop Working and Love the Competition XR‌ collaboration may be the future of work. People and companies can save a lot of time and money from commuting, renting an office and long-distance business travel. I wanted to work on this and created a simple collaboration prototype that runs locally on multiple Oculus Quests and a PC. Unfortunately, this was a mistake. I should have done more research on the competition.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://freeranter.com/about/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      
+      <guid>https://freeranter.com/about/</guid>
+      <description>About Freelancer, programmer, fan of free software (as in libre), talking ranting about life and tech.
+This blog is hosted on github pages. I&amp;rsquo;m using Hugo, this theme and sitejs. There&amp;rsquo;s no tracking, so I have no idea how many of you are reading.
+You can email me at user_name@host_name:
+ user_name: grigtod host_name: gmail.com  </description>
+    </item>
+    
+  </channel>
+</rss>

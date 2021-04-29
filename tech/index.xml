@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on freeranter</title>
+    <link>https://freeranter.com/tech/</link>
+    <description>Recent content in tech on freeranter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, freeranter.</copyright>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://freeranter.com/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My thoughts on NextMind</title>
+      <link>https://freeranter.com/nextmind-thoughts/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://freeranter.com/nextmind-thoughts/</guid>
+      <description>My thoughts on NextMind! NextMind is an interesting device, and I&amp;rsquo;ll consider purchasing one to create a couple of UX prototypes. That said, there&amp;rsquo;s something bothering me about this product.
+If you watch their videos on YouTube¹, then compare with some videos created by their users², you can see how certain aspects of the user experience are purposefully masked and others are misrepresented.
+For example in one of their earlier videos they advertise the ability of the device to distinguish shapes based on the brain signal alone³.</description>
+    </item>
+    
+  </channel>
+</rss>

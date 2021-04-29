@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webdev on freeranter</title>
+    <link>https://freeranter.com/webdev/</link>
+    <description>Recent content in webdev on freeranter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, freeranter.</copyright>
+    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://freeranter.com/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I left Squarespace to speed up my website</title>
+      <link>https://freeranter.com/from-slow-to-fast/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freeranter.com/from-slow-to-fast/</guid>
+      <description>How I left Squarespace to speed up my website I’ve been very annoyed by the webpage bloat experienced nowadays, especially on mobile. If your page takes more than 5 seconds to load on an average smartphone you’re doing it wrong!
+I didn’t want to be a part of the problem and decided to rework my portfolio website to be more lightweight.
+I was using Squarespace in the past. Squarespace tends to be very bloated, super slow when loading on mobile and cost me £144 per annum.</description>
+    </item>
+    
+    <item>
+      <title>From Idea to Product in 24 hours! </title>
+      <link>https://freeranter.com/idea-to-product-24-hours/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://freeranter.com/idea-to-product-24-hours/</guid>
+      <description>From Idea to Product in 24 hours! I&amp;rsquo;ve been working as a freelancer for a while now. It&amp;rsquo;s exciting to quickly prototype and deliver a project. Usually, my applications are used in exhibitions for a short time or purely for internal use, but some of my favourite projects are the ones that have been published online for everyone to see and enjoy. unfortunately, such projects are rare. That&amp;rsquo;s why I&amp;rsquo;ve been thinking of working towards developing more projects to share online.</description>
+    </item>
+    
+  </channel>
+</rss>
